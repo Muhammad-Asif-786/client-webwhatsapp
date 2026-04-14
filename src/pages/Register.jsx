@@ -148,7 +148,7 @@ export default function Register() {
 
           {/* Confirm Password */}
           <div>
-            <label className="block text-gray-700 mb-1">Confirm Password</label>
+            <label className="block text-gray-700 mb-1">Confirm Password Confirm Password testing</label>
             <div  className="flex bg-white items-center  border border-gray-300 rounded-lg " >
               <input
               type={confirmPassword ? "text":"password"}

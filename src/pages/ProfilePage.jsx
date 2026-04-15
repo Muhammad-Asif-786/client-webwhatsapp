@@ -47,7 +47,7 @@ export default function ProfilePage() {
     <div className="flex justify-center items-center h-screen bg-gray-100">
       <div className="bg-white shadow-lg rounded-2xl p-6 space-y-4 w-full max-w-md mx-2 sm:mx-0">
 
-        <h2 className="text-2xl font-semibold text-center">Profile</h2>
+        <h2 className="text-2xl font-semibold text-center">Profile(github py post krny k liay post kia hy)</h2>
 
         {/* Avatar Preview */}
         <div className="flex justify-center">

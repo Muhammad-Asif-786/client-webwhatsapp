@@ -35,7 +35,7 @@ const Sidebar = ({ setSelectedUser, selectedUser }) => {
 
   return (
     <div className="w-1/3 border-r border-gray-300 overflow-auto">
-      <h3 className="p-2 font-semibold text-lg">Chats</h3>
+      <h3 className="p-2 font-semibold text-lg">Chat's</h3>
 
       <div className="flex mx-2 p-2">
         <div className="relative w-full">

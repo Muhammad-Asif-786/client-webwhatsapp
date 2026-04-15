@@ -63,7 +63,7 @@ const ChatBox = ({ selectedUser, currentUser }) => {
   if (!selectedUser) {
     return (
       <div className="w-7/12 flex justify-center items-center">
-        Select chat to start messaging
+        Select chat to start messaging's
       </div>
     );
   }

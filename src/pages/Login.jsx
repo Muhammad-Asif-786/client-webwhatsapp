@@ -147,7 +147,7 @@ export default function Login() {
                  to="/forgot_password"
                  className="ml-auto pl-2 pt-1 text-blue-600 hover:text-blue-600 cursor-pointer hover:underline"
                >
-                 Forgot Password?
+                 Forgot Password? testing123
                </Link>
              </div>
 
